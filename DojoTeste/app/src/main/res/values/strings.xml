@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DojoTeste</string>
+    <string name="maxNameErrorMessage">Digite um nome de até 50 caracteres</string>
+    <string name="emptyNameErrorMessage">O nome não pode ser vazio</string>
+    <string name="emptyAgeErrorMessage">A idade não pode ser vazia</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
